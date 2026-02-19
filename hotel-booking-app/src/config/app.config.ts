@@ -119,4 +119,4 @@ export const SOCIAL_LINKS = [
   { icon: 'twitter', href: '#', title: 'Twitter' },
   { icon: 'instagram', href: '#', title: 'Instagram' },
   { icon: 'youtube', href: '#', title: 'Youtube' },
-];
+] as const;

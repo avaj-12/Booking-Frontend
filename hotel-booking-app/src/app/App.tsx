@@ -8,7 +8,6 @@ const App = () => {
       <Header />
       <Home />
       <Footer />
-      <h1>App</h1>
     </>
   );
 };
