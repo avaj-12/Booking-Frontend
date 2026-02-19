@@ -1,8 +1,13 @@
+import HeroSection from './HeroSection';
+import TrendingDestionation from './TrendingDestination';
 
 const Home = () => {
   return (
-    <div>Home</div>
-  )
-}
+    <>
+      <HeroSection></HeroSection>
+      <TrendingDestionation></TrendingDestionation>
+    </>
+  );
+};
 
-export default Home
+export default Home;
